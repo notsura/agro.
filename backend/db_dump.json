@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "6981e94ab5d65255d89328c6 (str)",
+    "user_id": "6981dccfcd0116b654cba3a5 (str)",
+    "crop_name": "Soybean (str)",
+    "sowing_date": "2026-02-03 (str)",
+    "started_at": "2026-02-03 (str)",
+    "completed_tasks": "['Sowing'] (list)"
+  },
+  {
+    "_id": "6981eb4cb5d65255d89328c7 (str)",
+    "user_id": "697f47cd22d3001ae6b41fb1 (str)",
+    "crop_name": "Cucumber (str)",
+    "sowing_date": "2026-02-03 (str)",
+    "started_at": "2026-02-03 (str)",
+    "completed_tasks": "['Planting', 'Sowing'] (list)"
+  }
+]
